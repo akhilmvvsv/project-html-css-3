@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(193, 193, 239);
+}
+#app
+{
+    width:500px;
+    height:400px;
+    margin:50px auto;
+    background-color:aliceblue;
+    padding-bottom:15px;
+}
+#title,h1{
+    display:inline-block;
+    margin-top:15px;
+    margin-left:15px;
+}
+.name{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:10px;
+    margin-bottom:10px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    font-weight:bold;
+}
+.name1{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.name3{
+    margin-left:20px;
+    margin-right:20px;
+    margin-top:10px;
+    margin-bottom:10px;
+    display:flex;
+    justify-content:flex-end
+
+}
+button{
+    background-color:orange;
+    color:aliceblue;
+}
+
+    
